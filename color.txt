@@ -1,0 +1,7 @@
+color scheme
+1. #d8e8e8 softblue
+2. #a8d0da lightblue
+3. #406d96 blue
+4. #2f3a56 darlblue
+5. #e2474b red
+6. #e2e3dd grey

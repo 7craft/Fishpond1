@@ -26,6 +26,19 @@
   --danger: #dc3545;
   --light: #f8f9fa;
   --dark: #343a40;
+  /********************************  
+    
+    custom color  for dashboard 
+  
+  *******************************/
+ --blueSoft: #d8e8e8; 
+ --blueLight: #a8d0da;
+ --blueBlue: #406d96;
+ --blueDark: #2f3a56;
+ --redBlue: #e2474b;
+ --grayBlue: #e2e3dd;
+
+  /**** end of custom color ****/
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
   --breakpoint-md: 768px;
